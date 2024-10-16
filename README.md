@@ -1,9 +1,45 @@
 # Car Dashboard using Arduino Leonardo, OBDII to UART adapter and Intelligent Nextion Display
 Car Dashboard using Arduino Leonardo, OBDII to UART adapter and Intelligent Nextion Display
 
-
-
 **YouTube video: XXX**
+
+
+
+Links from the video:
+- Do you like this video? You can buy me a coffee ☕: https://www.buymeacoffee.com/upir
+- Sparkfun OBDII to UART board: https://www.sparkfun.com/products/9555
+- Sparkfun OBDII board on AliExpress: https://s.click.aliexpress.com/e/_Dl1hhvb
+- Sparkfun OBDII guide: https://learn.sparkfun.com/tutorials/obd-ii-uart-hookup-guide
+- OBDII to DB9 cable: https://s.click.aliexpress.com/e/_DB0w82p
+- OBDII simulator: https://s.click.aliexpress.com/e/_DF9q0It
+- Arduino Leonardo: https://s.click.aliexpress.com/e/_DnC89Hb
+- Breadboard wires: https://s.click.aliexpress.com/e/_Dkbngin
+- Arduino UNO: https://s.click.aliexpress.com/e/_AXDw1h
+- Arduino breadboard prototyping shield: https://s.click.aliexpress.com/e/_ApbCwx
+- Photopea (online graphics editor like Photoshop): https://www.photopea.com/
+- RealTerm terminal application: https://sourceforge.net/projects/realterm/
+- USB to UART (cheap): https://s.click.aliexpress.com/e/_DdcIwx7
+- USB to UART (better): https://s.click.aliexpress.com/e/_DD9nZ8D
+- USB to UART (best): https://s.click.aliexpress.com/e/_DmOMFEH
+- Nextion Intelligent 5" display: https://s.click.aliexpress.com/e/_DdaDu6B
+- Nextion Intelligent 7" display: https://s.click.aliexpress.com/e/_DmikFnz
+- Nextion USB to TLL UART board: https://s.click.aliexpress.com/e/_DdLNFEF
+- Nextion Editor: https://nextion.tech/nextion-editor/#_section1
+- Glyphr studio for creating fonts: https://www.glyphrstudio.com/app/
+- Nextion Instruction set: https://nextion.tech/instruction-set/
+
+Related videos:
+- Digifiz Nextion dashboard: https://youtu.be/XtSo1BaJ6Bg
+- DWIN display: https://youtu.be/ugS3rKBZVVc
+- Arduino Gear Indicator: https://www.youtube.com/playlist?list=PLjQRaMdk7pBb6r6xglZb92DGyWJTgBVaV
+- Temperature gauge: https://youtu.be/A00CvNi1rzQ
+- Pitch and roll indicator: https://youtu.be/GosqWcScwC0
+- Boost gauge: https://youtu.be/cZTx7T9uwA4
+- Pitch and Roll with Nextion display: https://youtu.be/S_ppdbb0poQ
+- Parking sensor: https://youtu.be/gg08H-6Z1Lo
+- Speedometer: https://youtu.be/dSD02o3M2sw
+- Boost gauge with OLED: https://youtu.be/JXmw1xOlBdk
+
 
 
 
