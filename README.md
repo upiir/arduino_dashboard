@@ -1,7 +1,7 @@
 # Car Dashboard using Arduino Leonardo, OBDII to UART adapter and Intelligent Nextion Display
 Car Dashboard using Arduino Leonardo, OBDII to UART adapter and Intelligent Nextion Display
 
-**YouTube video: XXX**
+**YouTube video: https://youtu.be/L3ufJTFX2v0**
 
 
 
