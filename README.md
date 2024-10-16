@@ -12,7 +12,12 @@ Car Dashboard using Arduino Leonardo, OBDII to UART adapter and Intelligent Next
 
 
 
-Small Animation:
+Small Animations:
+
+![arduino_obdii_dashboard_car](https://github.com/user-attachments/assets/5deb50ed-648a-4f7d-a389-30fb401c9df9)
+
+![arduino_obdii_dashboard_bench](https://github.com/user-attachments/assets/2020e6eb-f877-4e28-9ba7-6d5865c97643)
+
 
 
 Screenshots from the video:
